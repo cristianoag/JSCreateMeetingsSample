@@ -13,4 +13,4 @@ You can use npx http-server -c -1 to spawn a http server locally and use the cod
 
 Need to create an App in Azure AD and configure appropriate permissions to onlineMeetings. 
 
-# details to come
+# Details to come
