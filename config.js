@@ -1,6 +1,6 @@
 const msalConfig = {
     auth: {
-      clientId: 'XXXXXX',
+      clientId: 'XXXXXXXX',
       redirectUri: 'http://localhost:8080'
     },
     cache: {

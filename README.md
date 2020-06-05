@@ -13,4 +13,4 @@ You can use npx http-server -c -1 to spawn a http server locally and use the cod
 
 Need to create an App in Azure AD and configure appropriate permissions to onlineMeetings. 
 
-# Details to come
+Please refer to https://techpeanuts.wordpress.com/2020/06/05/integrating-microsoft-teams-in-custom-apps/ for additional instructions.
