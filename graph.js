@@ -3,6 +3,7 @@ const options =
     'user.read',
     'onlineMeetings.ReadWrite'
   ]);
+  
 const authProvider =
   new MicrosoftGraph.ImplicitMSALAuthenticationProvider(msalClient, options);
 const graphClient = MicrosoftGraph.Client.initWithMiddleware({authProvider});
